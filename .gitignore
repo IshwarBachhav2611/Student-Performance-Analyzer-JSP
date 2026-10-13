@@ -1,0 +1,24 @@
+# Maven Build Directory
+target/
+
+# IDE files and workspace settings
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+bin/
+tmp/
+*.log
+
+# Operating System specific exclusions
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Compiled sources
+*.class
+*.war
